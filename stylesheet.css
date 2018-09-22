@@ -1,3 +1,7 @@
+#my-nav {
+  background-color: rgb(27, 7, 62);
+}
+
 #bodyEdit {
   white-space: normal;
   background-color: rgb(255, 245, 203);
@@ -7,6 +11,10 @@
   border: thick double #32a1ce;
   margin: rgb(11, 168, 245);
   position: static;
+}
+
+body {
+  padding-top: 70px;
 }
 
 .center{
